@@ -6,6 +6,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 click [here](https://amiryar6391.github.io/my-card/) to go demo
 
----
-
-![react](https://next1code.ir/wp-content/uploads/2023/11/github2-course-cover.jpg)
