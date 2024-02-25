@@ -4,5 +4,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ---
 
-click [here](https://amiryar6391.github.io/my-card/) to go demo
+click [here](https://amiryar6391.github.io/my-card/) to see demo
 
